@@ -1,1 +1,0 @@
-# projection_tool.py (placeholder content)
